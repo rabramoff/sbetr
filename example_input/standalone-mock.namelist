@@ -11,5 +11,5 @@
 /
 
 &betr_grid
-  grid_data_filename = "sierra_grid.nc"
+  grid_data_filename = "clm_exp_grid.cdl.nc"
 /
